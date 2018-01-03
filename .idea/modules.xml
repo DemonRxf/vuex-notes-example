@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/vue-notes-example.iml" filepath="$PROJECT_DIR$/.idea/vue-notes-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vuex-notes-example.iml" filepath="$PROJECT_DIR$/.idea/vuex-notes-example.iml" />
     </modules>
   </component>
 </project>
